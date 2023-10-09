@@ -1,10 +1,5 @@
 
-````
-console.log("Hi there! I won't repeat my name, just check the left side of the page :)")
-console.log("I am a passionate Junior Software Engineer who is stuck with Remix :)");
-console.log("Also I have a strong passion for blockchain technologies");
-````
-<p>How to reach me: <a href="mailto:abrulic1@etf.unsa.ba">abrulic1@etf.unsa.ba</a> or <a href="https://ba.linkedin.com/in/almina-bruli%C4%87-39105a1b3">my LinkedIn profile</a></p>
+<p>How to reach me: <a href="mailto:almina@code-forge.net">almina@code-forge.net</a> or <a href="https://ba.linkedin.com/in/almina-bruli%C4%87-39105a1b3">my LinkedIn profile</a></p>
 <hr>
 <h3>Tech Stack</h3>
 <a href="https://remix.run/" target="_blank" rel="noreferrer"> <img src="https://remix.run/img/og.1.jpg" alt="remix" width="70" height="40"/> </a>
